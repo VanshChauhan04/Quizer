@@ -1,7 +1,10 @@
 import streamlit as st
 import json
 import requests
-import fitz # PyMuPDF for PDF text extraction
+import fitz 
+import firebase_admin
+from firebase_admin import credentials
+# PyMuPDF for PDF text extraction
 
 # --- Firebase Initialization Block ---
 try:
