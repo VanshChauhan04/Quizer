@@ -1,7 +1,6 @@
 streamlit>=1.0.0
 requests
-PyMuPDF
-firebase-admin
-google-auth
-google-auth-requests
-google-oauth
+PyMuPDF==1.22.0 
+firebase-admin==7.0.0 
+google-auth==2.24.1 
+google-auth-requests==2.0.0 
