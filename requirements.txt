@@ -1,0 +1,7 @@
+streamlit>=1.0.0
+requests
+PyMuPDF
+firebase-admin
+google-auth
+google-auth-transport-requests
+google-oauth
